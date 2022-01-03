@@ -1,0 +1,15 @@
+{
+  "name": "ceuse-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "An syntax theme inspired by the beautiful cliffs of Céüse, France.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/climber-guy1772/ceuse-syntax-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
