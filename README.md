@@ -4,7 +4,8 @@ An Atom syntax theme inspired by the beautiful cliffs of Céüse, France. An exa
 
 <p align='center'>
 
-  <img src="https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif" />
-  <img src="https://www.planetmountain.com/img/1/65736.jpg" />
+  <img src="ceuse-example.jpg" alt="Syntax Example" width="400" />
+  <br />
+  <img src="https://www.planetmountain.com/img/1/65736.jpg" alt="Sébastien Bouin, Biographie" width="400" />
 
 </p>
